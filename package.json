@@ -1,0 +1,37 @@
+{
+  "name": "react-slide-layout",
+  "version": "0.0.1",
+  "description": "React trial project for slide panels",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack-dev-server"
+  },
+  "keywords": [
+    "react",
+    "slide",
+    "layout"
+  ],
+  "author": "Roberto Ciatti",
+  "license": "LGPL-3.0",
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "babel-core": "^6.9.0",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2016": "^6.0.11",
+    "babel-preset-react": "^6.5.0",
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "node-sass": "^3.7.0",
+    "postcss-loader": "^0.9.1",
+    "react-hot-loader": "^1.3.0",
+    "sass-loader": "^3.2.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  }
+}
